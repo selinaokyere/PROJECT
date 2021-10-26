@@ -1,0 +1,39 @@
+#main_body{
+    background-color: darkgray;
+    margin: 30px 65px;
+    border: 1px solid gray;
+}
+
+#intro { 
+    text-align: center;
+}
+
+#bio{
+    font-size: large;
+    text-align: center;
+    border: 1px solid gray;  
+}
+#header_image {
+    text-align: center;
+    border: 1px solid gray;
+    padding: opx 3px;
+    margin: 0px 35px;
+}
+#header_image img{
+    border-radius: 200%;
+    margin: 0px auto;
+    display: block;
+    border: 1px solid gray;
+}
+
+#header_image p {
+    border:2px solid gray;
+    padding: 13px 5px;
+    text-align: center;
+    background-color: rgb(85, 81, 81);
+}
+
+#onasis_life_experience {
+    text-align: justify;
+}
+
